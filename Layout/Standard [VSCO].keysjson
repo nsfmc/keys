@@ -1,0 +1,935 @@
+{
+  "_id": "EE6A7839-4775-9587-1B82-4BC4CEEF6604",
+  "active": 1,
+  "author": "VSCO",
+  "created": {
+    "sec": 1347210544,
+    "usec": 0
+  },
+  "customPresets": [],
+  "description": "This layout is designed for complete control while maintaining ultimate speed and flexibility. Each tool has an up and a down key, with the Shift key increasing the amount of change and the Option key decreasing it . Crop is moved to the J key and Spot removal is moved to the L key and Reject is moved to the O key. Command + ~ is also reject. Comma/Period/Question Mark for Cop/Paste/Paste from Previous settings. All function keys are reassigned to common needs like F1 Grid Mode, F2 Develop Mode, F12 Export, etc. Command + 1-0 activate VSCO Keys presets.",
+  "keys": [
+    {
+      "mod": "1",
+      "key": "15",
+      "adj": {
+        "Temperature": "1000",
+        "IncrementalTemperature": "10"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "14",
+      "adj": {
+        "Temperature": "-1000",
+        "IncrementalTemperature": "-10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "15",
+      "adj": {
+        "Temperature": "300",
+        "IncrementalTemperature": "3"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "14",
+      "adj": {
+        "Temperature": "-300",
+        "IncrementalTemperature": "-3"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "15",
+      "adj": {
+        "Temperature": "100",
+        "IncrementalTemperature": "1"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "14",
+      "adj": {
+        "Temperature": "-100",
+        "IncrementalTemperature": "-1"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "13",
+      "adj": {
+        "Tint": "10",
+        "IncrementalTint": "10"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "12",
+      "adj": {
+        "Tint": "-10",
+        "IncrementalTint": "-10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "13",
+      "adj": {
+        "Tint": "5",
+        "IncrementalTint": "5"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "12",
+      "adj": {
+        "Tint": "-5",
+        "IncrementalTint": "-5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "13",
+      "adj": {
+        "Tint": "2",
+        "IncrementalTint": "2"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "12",
+      "adj": {
+        "Tint": "-2",
+        "IncrementalTint": "-2"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "3",
+      "adj": {
+        "Exposure2012": "0.6"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "2",
+      "adj": {
+        "Exposure2012": "-0.6"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "3",
+      "adj": {
+        "Exposure2012": "0.3"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "2",
+      "adj": {
+        "Exposure2012": "-0.3"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "3",
+      "adj": {
+        "Exposure2012": "0.1"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "2",
+      "adj": {
+        "Exposure2012": "-0.1"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "1",
+      "adj": {
+        "Contrast2012": "20"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "0",
+      "adj": {
+        "Contrast2012": "-20"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "1",
+      "adj": {
+        "Contrast2012": "10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "0",
+      "adj": {
+        "Contrast2012": "-10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "1",
+      "adj": {
+        "Contrast2012": "5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "0",
+      "adj": {
+        "Contrast2012": "-5"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "4",
+      "adj": {
+        "Highlights2012": "20"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "5",
+      "adj": {
+        "Highlights2012": "-20"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "4",
+      "adj": {
+        "Highlights2012": "10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "5",
+      "adj": {
+        "Highlights2012": "-10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "4",
+      "adj": {
+        "Highlights2012": "5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "5",
+      "adj": {
+        "Highlights2012": "-5"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "9",
+      "adj": {
+        "Shadows2012": "20"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "8",
+      "adj": {
+        "Shadows2012": "-20"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "9",
+      "adj": {
+        "Shadows2012": "10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "8",
+      "adj": {
+        "Shadows2012": "-10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "9",
+      "adj": {
+        "Shadows2012": "5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "8",
+      "adj": {
+        "Shadows2012": "-5"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "45",
+      "adj": {
+        "Whites2012": "20"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "11",
+      "adj": {
+        "Whites2012": "-20"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "45",
+      "adj": {
+        "Whites2012": "10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "11",
+      "adj": {
+        "Whites2012": "-10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "45",
+      "adj": {
+        "Whites2012": "5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "11",
+      "adj": {
+        "Whites2012": "-5"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "7",
+      "adj": {
+        "Blacks2012": "15"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "6",
+      "adj": {
+        "Blacks2012": "-15"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "7",
+      "adj": {
+        "Blacks2012": "10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "6",
+      "adj": {
+        "Blacks2012": "-10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "7",
+      "adj": {
+        "Blacks2012": "5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "6",
+      "adj": {
+        "Blacks2012": "-5"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "24",
+      "adj": {
+        "Clarity2012": "15"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "27",
+      "adj": {
+        "Clarity2012": "-15"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "24",
+      "adj": {
+        "Clarity2012": "10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "27",
+      "adj": {
+        "Clarity2012": "-10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "24",
+      "adj": {
+        "Clarity2012": "5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "27",
+      "adj": {
+        "Clarity2012": "-5"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "16",
+      "adj": {
+        "Vibrance": "10"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "17",
+      "adj": {
+        "Vibrance": "-10"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "16",
+      "adj": {
+        "Saturation": "15"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "17",
+      "adj": {
+        "Saturation": "-15"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "16",
+      "adj": {
+        "Saturation": "10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "17",
+      "adj": {
+        "Saturation": "-10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "16",
+      "adj": {
+        "Saturation": "5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "17",
+      "adj": {
+        "Saturation": "-5"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "24",
+      "adj": {
+        "Sharpness": "10"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "27",
+      "adj": {
+        "Sharpness": "-10"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "39",
+      "adj": {
+        "LuminanceSmoothing": "20"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "41",
+      "adj": {
+        "LuminanceSmoothing": "-20"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "39",
+      "adj": {
+        "LuminanceSmoothing": "10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "41",
+      "adj": {
+        "LuminanceSmoothing": "-10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "39",
+      "adj": {
+        "LuminanceSmoothing": "5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "41",
+      "adj": {
+        "LuminanceSmoothing": "-5"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "39",
+      "adj": {
+        "ColorNoiseReduction": "10"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "41",
+      "adj": {
+        "ColorNoiseReduction": "-10"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "47",
+      "adj": {
+        "PerspectiveRotate": "2"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "43",
+      "adj": {
+        "PerspectiveRotate": "-2"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "47",
+      "adj": {
+        "PerspectiveRotate": "1"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "43",
+      "adj": {
+        "PerspectiveRotate": "-1"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "47",
+      "adj": {
+        "PerspectiveRotate": "0.5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "43",
+      "adj": {
+        "PerspectiveRotate": "-0.5"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "30",
+      "adj": {
+        "VignetteAmount": "30"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "33",
+      "adj": {
+        "VignetteAmount": "-30"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "30",
+      "adj": {
+        "VignetteAmount": "20"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "33",
+      "adj": {
+        "VignetteAmount": "-20"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "30",
+      "adj": {
+        "VignetteAmount": "10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "33",
+      "adj": {
+        "VignetteAmount": "-10"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "34",
+      "adj": {
+        "GrainAmount": "15"
+      }
+    },
+    {
+      "mod": "1",
+      "key": "32",
+      "adj": {
+        "GrainAmount": "-15"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "34",
+      "adj": {
+        "GrainAmount": "10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "32",
+      "adj": {
+        "GrainAmount": "-10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "34",
+      "adj": {
+        "GrainAmount": "5"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "32",
+      "adj": {
+        "GrainAmount": "-5"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "18",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 01"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "19",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 02"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "20",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 03"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "21",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 04"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "23",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 05"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "22",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 06"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "26",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 07"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "28",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 08"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "25",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 09"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "29",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "99",
+      "adj": {
+        "_RemapKey": {
+          "mod": "9",
+          "key": "34"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "111",
+      "adj": {
+        "_RemapKey": {
+          "mod": "9",
+          "key": "14"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "103",
+      "adj": {
+        "_RemapKey": {
+          "mod": "13",
+          "key": "14"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "98",
+      "adj": {
+        "_RemapKey": {
+          "mod": "12",
+          "key": "0"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "101",
+      "adj": {
+        "_RemapKey": {
+          "mod": "8",
+          "key": "45"
+        }
+      }
+    },
+    {
+      "mod": "2",
+      "key": "38",
+      "adj": {
+        "_RemapKey": {
+          "mod": "12",
+          "key": "15"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "109",
+      "adj": {
+        "_RemapKey": {
+          "mod": "8",
+          "key": "14"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "97",
+      "adj": {
+        "_RemapKey": {
+          "mod": "8",
+          "key": "39"
+        }
+      }
+    },
+    {
+      "mod": "8",
+      "key": "50",
+      "adj": {
+        "_RemapKey": {
+          "mod": "0",
+          "key": "7"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "31",
+      "adj": {
+        "_RemapKey": {
+          "mod": "0",
+          "key": "7"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "118",
+      "adj": {
+        "_RemapKey": {
+          "mod": "9",
+          "key": "15"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "43",
+      "adj": {
+        "_RemapKey": {
+          "mod": "9",
+          "key": "8"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "47",
+      "adj": {
+        "_RemapKey": {
+          "mod": "9",
+          "key": "9"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "44",
+      "adj": {
+        "_RemapKey": {
+          "mod": "12",
+          "key": "9"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "96",
+      "adj": {
+        "_RemapKey": {
+          "mod": "9",
+          "key": "1"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "38",
+      "adj": {
+        "_RemapKey": {
+          "mod": "0",
+          "key": "15"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "37",
+      "adj": {
+        "_RemapKey": {
+          "mod": "0",
+          "key": "12"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "122",
+      "adj": {
+        "_RemapKey": {
+          "mod": "0",
+          "key": "5"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "120",
+      "adj": {
+        "_RemapKey": {
+          "mod": "0",
+          "key": "2"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "100",
+      "adj": {
+        "_RemapKey": {
+          "mod": "9",
+          "key": "3"
+        }
+      }
+    }
+  ],
+  "lrVersion": "4",
+  "modeKey": "53",
+  "name": "Standard [VSCO]",
+  "timestamp": {
+    "sec": 1350875560,
+    "usec": 46000
+  },
+  "userId": 0,
+  "uuid": "EE6A7839-4775-9587-1B82-4BC4CEEF6604",
+  "version": "1.1"
+}

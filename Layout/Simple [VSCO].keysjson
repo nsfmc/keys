@@ -1,0 +1,212 @@
+{
+  "_id": "97E684E5-5573-EC04-DDC5-F9C0C654A7A8",
+  "active": 1,
+  "author": "VSCO",
+  "created": {
+    "sec": 1347210594,
+    "usec": 0
+  },
+  "customPresets": [],
+  "description": "This layout is designed quick learning and quick processing. All of Lightroom's default commands are left unchanged, with 3 exceptions: Command/Windows + 1-0 keys activate the VSCO Keys Presets, period/comma/question mark keys copy/paste/paste from previous settings and the arrow keys in combination with modifiers change white balance temperature and exposure. Left and right control temperature, up and down control exposure. These with the option key performs a medium change, command/windows large change, control small change.",
+  "keys": [
+    {
+      "mod": "8",
+      "key": "124",
+      "adj": {
+        "Temperature": "1000",
+        "IncrementalTemperature": "10"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "123",
+      "adj": {
+        "Temperature": "-1000",
+        "IncrementalTemperature": "-10"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "124",
+      "adj": {
+        "Temperature": "200",
+        "IncrementalTemperature": "2"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "123",
+      "adj": {
+        "Temperature": "-200",
+        "IncrementalTemperature": "-2"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "124",
+      "adj": {
+        "Temperature": "100",
+        "IncrementalTemperature": "1"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "123",
+      "adj": {
+        "Temperature": "-100",
+        "IncrementalTemperature": "-1"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "126",
+      "adj": {
+        "Exposure2012": "0.6"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "125",
+      "adj": {
+        "Exposure2012": "-0.6"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "126",
+      "adj": {
+        "Exposure2012": "0.3"
+      }
+    },
+    {
+      "mod": "4",
+      "key": "125",
+      "adj": {
+        "Exposure2012": "-0.3"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "126",
+      "adj": {
+        "Exposure2012": "0.1"
+      }
+    },
+    {
+      "mod": "2",
+      "key": "125",
+      "adj": {
+        "Exposure2012": "-0.1"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "18",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 01"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "19",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 02"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "20",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 03"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "21",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 04"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "23",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 05"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "22",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 06"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "26",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 07"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "28",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 08"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "25",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 09"
+      }
+    },
+    {
+      "mod": "8",
+      "key": "29",
+      "adj": {
+        "_SetPreset": "VSCO Keys/Preset 10"
+      }
+    },
+    {
+      "mod": "0",
+      "key": "43",
+      "adj": {
+        "_RemapKey": {
+          "mod": "9",
+          "key": "8"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "47",
+      "adj": {
+        "_RemapKey": {
+          "mod": "9",
+          "key": "9"
+        }
+      }
+    },
+    {
+      "mod": "0",
+      "key": "44",
+      "adj": {
+        "_RemapKey": {
+          "mod": "12",
+          "key": "9"
+        }
+      }
+    }
+  ],
+  "lrVersion": "4",
+  "modeKey": "53",
+  "name": "Simple [VSCO]",
+  "timestamp": {
+    "sec": 1350667388,
+    "usec": 151000
+  },
+  "userId": 0,
+  "uuid": "97E684E5-5573-EC04-DDC5-F9C0C654A7A8"
+}
